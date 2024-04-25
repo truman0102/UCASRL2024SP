@@ -9,6 +9,12 @@
    4. 其他适配版本参考[官网](https://www.mindspore.cn/versions)
 2. 快速安装
 
+## Documentation
+
+1. [MindSpore$\;$2.0.0-alpha](https://www.mindspore.cn/tutorials/zh-CN/r2.0.0-alpha/index.html)
+2. [MindSpore$\;$Reinforcement$\;$0.6.0-alpha](https://www.mindspore.cn/reinforcement/docs/zh-CN/r0.6.0-alpha/index.html)
+
+
 ## ACER
 
 1. [arXiv](https://arxiv.org/abs/1611.01224)
