@@ -9,11 +9,10 @@
    4. 其他适配版本参考[官网](https://www.mindspore.cn/versions)
 2. 快速安装
 
-## DRQN
+## ACER
 
-1. [arXiv](https://arxiv.org/abs/1507.06527)
-2. [paper with code](https://paperswithcode.com/paper/deep-recurrent-q-learning-for-partially)
-3. [pytorch实现](https://github.com/keep9oing/DRQN-Pytorch-CartPole-v1)
+1. [arXiv](https://arxiv.org/abs/1611.01224)
+2. [PyTorch实现](https://github.com/Kaixhin/ACER)
 
 ## Usage
 
