@@ -19,5 +19,5 @@ HostName dev-modelarts-cnnorth4.huaweicloud.com
 ## Installation
 
 ```bash
-pip install mlagents-envs gym opencv-python==4.5.5.64 stable-baselines3==1.5.0
+pip install mlagents-envs gym opencv-python==4.5.5.64 stable-baselines3==1.5.0 importlib-metadata==4.13.0
 ```
